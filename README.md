@@ -43,21 +43,18 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
 
-### Начинаю собирать статистику!
-# 📊 GitHub Stats:
+### Статистика GitHub:
+
 ![](https://github-readme-stats.vercel.app/api?username=avvproger&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avvproger&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avvproger&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=avvproger&icon=5&color=6)](https://visitcount.itsvg.in)
 <br/>  
-
+---
 ### Контактные данные:
 Email [avvwdesign@gmail.com](mailto:avvwdesign@gmail.com)
 Telegram https://t.me/WoundedWaffla
