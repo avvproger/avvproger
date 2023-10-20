@@ -54,3 +54,7 @@
 </div>
 
 <br/>  
+
+### Контактные данные:
+Email [avvwdesign@gmail.com](mailto:avvwdesign@gmail.com)
+Telegram https://t.me/WoundedWaffla
