@@ -1,4 +1,4 @@
-# Привет меня зовут Владислав!
+# Привет, меня зовут Владислав!
 
 ### Базовый уровень на:  
 <div align="center">  
@@ -43,5 +43,11 @@
 </div>
 
 </td></tr></table>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=avvproger&&style=flat-square" align="center" />
+</div>
 
 <br/>  
